@@ -1,4 +1,5 @@
 ## Hi there 👋
+![LYFERO](https://github.com/user-attachments/assets/24b35715-a67f-487c-8778-9fc801672d23)
 
 <!--
 **Lyfero/Lyfero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
