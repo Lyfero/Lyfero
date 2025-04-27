@@ -15,14 +15,12 @@
 	
 ## Meet the developer
 <br>
-
-- I am a 5th-semester student at **Tecnológico Comfenalco**, pursuing a degree in **Software Engineering**.
-- I am focused on **Artificial Intelligence**, **Web Development**, and **Application Development**.
-- I believe in using technology as a powerful tool to solve real-world problems.
-- I actively participate in programming competitions and coding challenges to improve my skills.
-- Currently deepening my knowledge in **Computer Science** and **Software Engineering** principles.
-- Always eager to learn new technologies and grow professionally.
-- Open to exciting new **internship** and **job opportunities** in the tech industry.
+- 5th-semester **Software Engineering** student at **Tecnológico Comfenalco**.
+- Focused on **AI**, **Web Development**, and **App Development**.
+- Passionate about solving problems through technology.
+- Active participant in coding competitions.
+- Always eager to learn new technologies.
+- Open to **internship** and **job opportunities**.
 
 <br>
 <p align="center">
@@ -57,12 +55,12 @@
 - **[OpenGL](https://www.opengl.org/)** — An open-source graphics API for rendering 2D and 3D vector graphics.
 - **[Selenium](https://www.selenium.dev/)** — A powerful tool for automating web browsers.
 
-### 🖥IDES
+### IDES
 - **[Visual Studio Code](https://code.visualstudio.com/)** — A lightweight but powerful source code editor developed by Microsoft.
 - **[JetBrains IDEs](https://www.jetbrains.com/)** — Advanced IDEs tailored for various programming languages.
 - **[Eclipse](https://www.eclipse.org/)** — A widely-used IDE, especially for Java development.
 
-### 🖥Operating Systems
+### Operating Systems
 - **[Windows](https://www.microsoft.com/windows)** — User-friendly operating system commonly used for personal computers.
 - **[Linux](https://www.linux.org/)** — An open-source operating system favored for its security, flexibility, and use in servers and development environments.
 - **[macOS](https://www.apple.com/macos/)** — The Unix-based operating system designed by Apple.
