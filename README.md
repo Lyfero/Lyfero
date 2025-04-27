@@ -15,6 +15,7 @@
 	
 ## Meet the developer
 <br>
+
 - 5th-semester **Software Engineering** student at **Tecnológico Comfenalco**.
 - Focused on **AI**, **Web Development**, and **App Development**.
 - Passionate about solving problems through technology.
