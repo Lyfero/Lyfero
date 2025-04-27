@@ -13,9 +13,8 @@
 </p>
 
 	
-## About me
-
-<br><br>
+## About me, Oliver Galofre
+<br>
 
 -  I am a `Junior` at Faculty of Computers & Informatics.
 - : 2x `ACPC` Finalist.
