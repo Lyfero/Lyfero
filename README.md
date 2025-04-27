@@ -13,7 +13,7 @@
 </p>
 
 	
-## About me, Oliver Galofre
+## Meet the developer
 <br>
 
 -  I am a `Junior` at Faculty of Computers & Informatics.
@@ -33,7 +33,7 @@
 	<a href="https://www.instagram.com/oliver.galofre/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p> 
 
-## 🛠 My Skills
+## Areas of expertise
 
 ### 📚 Programming Languages
 - **[C](https://en.wikipedia.org/wiki/C_(programming_language))** — A powerful general-purpose programming language ideal for system programming and embedded devices.
@@ -69,8 +69,6 @@
 - **[Windows](https://www.microsoft.com/windows)** — User-friendly operating system commonly used for personal computers.
 - **[Linux](https://www.linux.org/)** — An open-source operating system favored for its security, flexibility, and use in servers and development environments.
 - **[macOS](https://www.apple.com/macos/)** — The Unix-based operating system designed by Apple.
-
-
 <br>
 </div>
 </details>
