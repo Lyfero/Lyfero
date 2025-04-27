@@ -16,12 +16,12 @@
 ## Meet the developer
 <br>
 
-- 5th-semester **Software Engineering** student at **Tecnológico Comfenalco**.
-- Focused on **AI**, **Web Development**, and **App Development**.
+- 5th-semester **Software Engineering** student at `Tecnológico Comfenalco`.
+- Focused on `AI`, `Web Development`, and `App Development`.
 - Passionate about solving problems through technology.
 - Active participant in coding competitions.
 - Always eager to learn new technologies.
-- Open to **internship** and **job opportunities**.
+- Open to **internship** and `job opportunitie`.
 
 <br>
 <p align="center">
