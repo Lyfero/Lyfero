@@ -51,18 +51,14 @@
 ### 🧰 Software & Tools
 - **[Git](https://git-scm.com/)** — A distributed version control system for tracking changes in source code during development.
 - **[GitHub](https://github.com/)** — A platform for hosting and collaborating on Git repositories.
-- **[Google Sheets](https://www.google.com/sheets/about/)** — A cloud-based spreadsheet tool for data organization and analysis.
-- **[Markdown](https://www.markdownguide.org/)** — A lightweight markup language for formatting plain text.
 - **[Stack Overflow](https://stackoverflow.com/)** — A community for developers to learn, share knowledge, and build their careers.
-- **[GeeksforGeeks](https://www.geeksforgeeks.org/)** — A computer science portal for interview preparation and learning.
 - **[JSON](https://www.json.org/json-en.html)** — A lightweight data-interchange format easy for humans to read and write.
 - **[OpenGL](https://www.opengl.org/)** — An open-source graphics API for rendering 2D and 3D vector graphics.
 - **[Selenium](https://www.selenium.dev/)** — A powerful tool for automating web browsers.
 
-### 🖥️ IDEs
+### 🖥️ IDES
 - **[Visual Studio Code](https://code.visualstudio.com/)** — A lightweight but powerful source code editor developed by Microsoft.
 - **[JetBrains IDEs](https://www.jetbrains.com/)** — Advanced IDEs tailored for various programming languages.
-- **[Atom](https://atom.io/)** — A hackable text editor for the 21st century.
 - **[Eclipse](https://www.eclipse.org/)** — A widely-used IDE, especially for Java development.
 
 ### 🖥️ Operating Systems
