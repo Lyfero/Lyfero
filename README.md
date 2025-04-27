@@ -19,13 +19,13 @@
 
 <br><br>
 
-- :school: I am a `Junior` at Faculty of Computers & Informatics.
-- :trophy: 2x `ACPC` Finalist.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`.
+-  I am a `Junior` at Faculty of Computers & Informatics.
+- : 2x `ACPC` Finalist.
+-  I love using Software as a solution for every `Problem`.
+-  I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+-  I’m currently learning `Computer Science` and `Software Engineering`.
+-  Always `learning new things`.
+-  I’m currently open for a new `job opportunity`.
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
