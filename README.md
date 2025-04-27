@@ -35,20 +35,20 @@
 
 ## Areas of expertise
 
-### 📚 Programming Languages
+### Programming Languages
 - **[C](https://en.wikipedia.org/wiki/C_(programming_language))** — A powerful general-purpose programming language ideal for system programming and embedded devices.
 - **[C++](https://en.wikipedia.org/wiki/C%2B%2B)** — An extension of C with object-oriented capabilities, widely used in game development and high-performance applications.
 - **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)** — The language of the web, enabling interactive and dynamic content in web applications.
 - **[Java](https://www.java.com/)** — A versatile, object-oriented language used for enterprise applications, Android development, and more.
 - **[Python](https://www.python.org/)** — A high-level programming language known for its simplicity and versatility in fields like data science, automation, and web development.
 
-### 🎨 Frontend Development
+### Frontend Development
 - **[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)** — The standard markup language for creating web pages.
 - **[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)** — The language used to style and layout web pages.
 - **[Python](https://www.python.org/)** — Also used for backend web development with frameworks like Django and Flask.
 - **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)** — Used for adding interactivity and functionality to web pages.
 
-### 🧰 Software & Tools
+### Software & Tools
 - **[Git](https://git-scm.com/)** — A distributed version control system for tracking changes in source code during development.
 - **[GitHub](https://github.com/)** — A platform for hosting and collaborating on Git repositories.
 - **[Stack Overflow](https://stackoverflow.com/)** — A community for developers to learn, share knowledge, and build their careers.
@@ -56,12 +56,12 @@
 - **[OpenGL](https://www.opengl.org/)** — An open-source graphics API for rendering 2D and 3D vector graphics.
 - **[Selenium](https://www.selenium.dev/)** — A powerful tool for automating web browsers.
 
-### 🖥️ IDES
+### 🖥IDES
 - **[Visual Studio Code](https://code.visualstudio.com/)** — A lightweight but powerful source code editor developed by Microsoft.
 - **[JetBrains IDEs](https://www.jetbrains.com/)** — Advanced IDEs tailored for various programming languages.
 - **[Eclipse](https://www.eclipse.org/)** — A widely-used IDE, especially for Java development.
 
-### 🖥️ Operating Systems
+### 🖥Operating Systems
 - **[Windows](https://www.microsoft.com/windows)** — User-friendly operating system commonly used for personal computers.
 - **[Linux](https://www.linux.org/)** — An open-source operating system favored for its security, flexibility, and use in servers and development environments.
 - **[macOS](https://www.apple.com/macos/)** — The Unix-based operating system designed by Apple.
