@@ -16,13 +16,14 @@
 ## Meet the developer
 <br>
 
--  I am a `Junior` at Faculty of Computers & Informatics.
-- : 2x `ACPC` Finalist.
--  I love using Software as a solution for every `Problem`.
--  I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
--  I’m currently learning `Computer Science` and `Software Engineering`.
--  Always `learning new things`.
--  I’m currently open for a new `job opportunity`.
+- I am a 5th-semester student at **Tecnológico Comfenalco**, pursuing a degree in **Software Engineering**.
+- I am focused on **Artificial Intelligence**, **Web Development**, and **Application Development**.
+- I believe in using technology as a powerful tool to solve real-world problems.
+- I actively participate in programming competitions and coding challenges to improve my skills.
+- Currently deepening my knowledge in **Computer Science** and **Software Engineering** principles.
+- Always eager to learn new technologies and grow professionally.
+- Open to exciting new **internship** and **job opportunities** in the tech industry.
+
 <br>
 <p align="center">
 	<a href="mailto:ahmed.olivergalofre19@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
