@@ -31,18 +31,7 @@
 	<a href="https://www.linkedin.com/in/oliver-galofre-4b9263326/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/oliverarturo.galofreagudelo"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/oliver.galofre/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
-
-
-
-## My Skills
-
-###  Programming languages
-
-# 👋 About Me
-
-Hi! Welcome to my GitHub profile.  
-Here you will find a brief overview of my skills and the technologies I am familiar with. I am passionate about programming, software development, and continuous learning.  
+</p> 
 
 ## 🛠 My Skills
 
